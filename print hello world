@@ -5,3 +5,5 @@ print('Hello, world!')
 Output
 
 Hello, world!
+easy way to print
+print("Hello World")
